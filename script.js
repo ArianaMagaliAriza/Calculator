@@ -47,3 +47,11 @@ function handleSymbol(symbol){
 function handleMath(symbol){
 
 }
+
+function flushOperation(){
+
+}
+
+function handleNumber(){
+
+}
